@@ -34,9 +34,7 @@ EXAMPLES = """
 """
 
 RETURN = """
-msg:
-    description: Gathered facts for Solidfire cluster.
-    returned: always
+msg:description: Gathered facts for Solidfire cluster.returned: always
     type: string
 """
 
